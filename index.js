@@ -4,4 +4,4 @@ function testingAddition(a, b) {
 
 
 let result = testingAddition(2, 3)
-result == 5
+result == 5;
